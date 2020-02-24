@@ -1,0 +1,16 @@
+body{
+   background: url(bg-liff-blur.png) ;
+}
+ 
+hr {
+   border: 0;
+   clear: both;
+   display: block;
+   width: 90%;
+   background-color: gray;
+   height: 1px;
+}
+
+.hidden {
+   display: none;
+}
